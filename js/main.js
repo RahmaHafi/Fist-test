@@ -1,0 +1,7 @@
+{
+  {
+    {
+      import moduleName from 'module'
+    }
+  }
+}
